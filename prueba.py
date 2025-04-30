@@ -1,1 +1,3 @@
-print ("Hola fuckerm, to everyone");
+print ("Hola 0001, to everyone")
+
+print ("Bye bye, everyone from the world")
