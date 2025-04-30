@@ -1,4 +1,10 @@
 Hola mundo soy Israel
 =====================
 
+<<<<<<< HEAD
 change from main ==== hola mundo
+=======
+change comflict from feature 001=== Hola mundo...
+
+
+>>>>>>> feature1
